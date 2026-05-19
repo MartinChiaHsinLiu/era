@@ -63,7 +63,7 @@ Exploring architectural optimizations for next-generation solar energy harvestin
 ### 6. Hydrology: Runoff Forecasting for Snow-Fed River Basins
 * **Project Title**: Runoff Forecasting across California Snow-Fed River Basins
 * **External Link**: [arxiv link](https://arxiv.org/abs/2605.16178)
-* **Local PDF**: [Runoff_Forecasting.pdf](pdfs/2605.16178v1.pdf) *(embargo placeholder)*
+* **Local PDF**: [Runoff_Forecasting.pdf](pdfs/2605.16178v1.pdf) 
 
 **Summary**:
 Accurate predictions of spring snowmelt runoff are critical for urban water resource allocation and agricultural planning. Researchers utilized ERA to synthesize a seasonal runoff forecasting model across California's river basins. The generated empirical model produces significantly more precise long-horizon spring runoff forecasts than California's official state baseline outlook (Bulletin 120 / B120).
@@ -73,7 +73,7 @@ Accurate predictions of spring snowmelt runoff are critical for urban water reso
 ### 7. Macroeconomics: Weekly Retail Sales Forecasting
 * **Project Title**: Retail Sales Forecasting
 * **External Link**: *Pending Link*
-* **Local PDF**: [Retail_Sales_Forecasting.pdf](pdfs/Retail_Sales_Forecasting.pdf) *(embargo placeholder)*
+* **Local PDF**: *Pending Link*
 
 **Summary**:
 Applying empirical optimization to economic tracking, this project constructs highly accurate weekly retail forecasting models. Feeding on public U.S. economic indicators, Google Trends density, consumer sentiment metrics, and historical demand cycles, the ERA-devised model successfully matches or surpasses leading commercial consensus estimates and the Chicago Fed Advance Retail Trade Summary (CARTS).
