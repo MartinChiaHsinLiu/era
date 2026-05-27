@@ -42,7 +42,7 @@ This paper uses ERA together with Gemini Deepthink to find both exact solutions 
 
 ### 4. Climate & Sustainability: High-Frequency CO2 Monitoring from Weather Satellites
 * **Project Title**: Quantification of Atmospheric Carbon Dioxide from the Geostationary Operational Environmental Satellite (GOES East)
-* **External Link**: [GitHub Project Paper](https://github.com/asonabend/DeepXCO2/blob/main/Quantification%20of%20atmospheric%20carbon%20dioxide%20from%20the%20Geostationary%20Operational%20Environmental%20Satellite%20(GOES%20East).pdf)
+* **External Link**: [arXiv:2605.23991](https://arxiv.org/abs/2605.23991)
 * **Local PDF**: [DeepXCO2.pdf](pdfs/DeepXCO2.pdf)
 
 **Summary**:
